@@ -1,5 +1,5 @@
 {
-  "total_solved": 462,
+  "total_solved": 465,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -462,7 +462,10 @@
     "MAXADJSUM",
     "MAYOR_PARTY",
     "REACHWT",
-    "CHEAPFUEL"
+    "CHEAPFUEL",
+    "DICENUM",
+    "CARSELL",
+    "CHEFCONTEST"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -685,7 +688,8 @@
     "BADMINTON",
     "CHEFZOT",
     "SBTG",
-    "ATTENDU"
+    "ATTENDU",
+    "LARGODDSTRIN"
   ],
   "history": [
     {
@@ -3918,6 +3922,27 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-13 15:51:16"
+    },
+    {
+      "code": "DICENUM",
+      "name": "Dice Number",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-13 16:32:54"
+    },
+    {
+      "code": "CARSELL",
+      "name": "Sell All the Cars",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-13 16:36:39"
+    },
+    {
+      "code": "CHEFCONTEST",
+      "name": "Chef and Contest",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-13 16:38:03"
     }
   ]
 }
