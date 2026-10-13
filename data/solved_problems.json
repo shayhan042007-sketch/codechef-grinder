@@ -1,5 +1,5 @@
 {
-  "total_solved": 458,
+  "total_solved": 462,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -458,7 +458,11 @@
     "BURGERS2",
     "PSEUDOSORT",
     "BUSROW",
-    "BOTTOM"
+    "BOTTOM",
+    "MAXADJSUM",
+    "MAYOR_PARTY",
+    "REACHWT",
+    "CHEAPFUEL"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -3886,6 +3890,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-13 12:17:50"
+    },
+    {
+      "code": "MAXADJSUM",
+      "name": "Maximise Adjacent Sum",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-13 15:47:03"
+    },
+    {
+      "code": "MAYOR_PARTY",
+      "name": "Peaceful Party",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-13 15:48:51"
+    },
+    {
+      "code": "REACHWT",
+      "name": "Reach Weight",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-13 15:50:03"
+    },
+    {
+      "code": "CHEAPFUEL",
+      "name": "Which Fuel is Cheaper",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-13 15:51:16"
     }
   ]
 }
