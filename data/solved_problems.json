@@ -1,5 +1,5 @@
 {
-  "total_solved": 465,
+  "total_solved": 469,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -465,7 +465,11 @@
     "CHEAPFUEL",
     "DICENUM",
     "CARSELL",
-    "CHEFCONTEST"
+    "CHEFCONTEST",
+    "P2BAR",
+    "AABBCCDD",
+    "STRONGTABLE",
+    "ODDSEVENS"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -3943,6 +3947,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-13 16:38:03"
+    },
+    {
+      "code": "P2BAR",
+      "name": "Signal",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-13 21:59:13"
+    },
+    {
+      "code": "AABBCCDD",
+      "name": "AabBcCDd",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-13 22:00:55"
+    },
+    {
+      "code": "STRONGTABLE",
+      "name": "Table Strength",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-13 22:02:32"
+    },
+    {
+      "code": "ODDSEVENS",
+      "name": "Odds and Evens",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-13 22:03:45"
     }
   ]
 }
