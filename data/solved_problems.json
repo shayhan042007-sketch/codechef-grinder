@@ -1,5 +1,5 @@
 {
-  "total_solved": 475,
+  "total_solved": 479,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -475,7 +475,11 @@
     "SHARING",
     "CNTODDEVEN",
     "THREEBOX",
-    "BOP3"
+    "BOP3",
+    "BLUEBLACK",
+    "KOL15A",
+    "EOEO",
+    "LARGESTK343"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4028,6 +4032,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-14 09:54:26"
+    },
+    {
+      "code": "BLUEBLACK",
+      "name": "Blue and Black Pens",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-14 18:12:22"
+    },
+    {
+      "code": "KOL15A",
+      "name": "Processing a string",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-14 18:13:51"
+    },
+    {
+      "code": "EOEO",
+      "name": "The Tom and Jerry Game!",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-14 18:15:44"
+    },
+    {
+      "code": "LARGESTK343",
+      "name": "Largest K",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-14 18:16:52"
     }
   ]
 }
