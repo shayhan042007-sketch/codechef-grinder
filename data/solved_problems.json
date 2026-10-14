@@ -1,5 +1,5 @@
 {
-  "total_solved": 479,
+  "total_solved": 484,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -479,7 +479,12 @@
     "BLUEBLACK",
     "KOL15A",
     "EOEO",
-    "LARGESTK343"
+    "LARGESTK343",
+    "CHFINTRO",
+    "CABRIDE",
+    "CHEFSUM",
+    "FAIRELCT",
+    "SALARY"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4060,6 +4065,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-14 18:16:52"
+    },
+    {
+      "code": "CHFINTRO",
+      "name": "Chef and Interactive Contests",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-14 20:59:23"
+    },
+    {
+      "code": "CABRIDE",
+      "name": "Cab Rides",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-14 21:00:41"
+    },
+    {
+      "code": "CHEFSUM",
+      "name": "Little Chef and Sums",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-14 21:02:31"
+    },
+    {
+      "code": "FAIRELCT",
+      "name": "Fair Elections",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-14 21:04:09"
+    },
+    {
+      "code": "SALARY",
+      "name": "The Minimum Number Of Moves",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-14 21:05:33"
     }
   ]
 }
