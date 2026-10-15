@@ -1,5 +1,5 @@
 {
-  "total_solved": 488,
+  "total_solved": 494,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -488,7 +488,13 @@
     "WHICHDIV",
     "CODETOWN",
     "SUNNYDAY",
-    "TENPACKETS"
+    "TENPACKETS",
+    "MAXSLAM",
+    "LKDNGOLF",
+    "BUSSEAT",
+    "UNQSHF",
+    "SPC2025",
+    "ADASCOOL"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4132,6 +4138,48 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-15 09:33:13"
+    },
+    {
+      "code": "MAXSLAM",
+      "name": "Maximum Slams",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-15 14:07:09"
+    },
+    {
+      "code": "LKDNGOLF",
+      "name": "Golf",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-15 14:08:12"
+    },
+    {
+      "code": "BUSSEAT",
+      "name": "Bus Seating",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-15 14:09:04"
+    },
+    {
+      "code": "UNQSHF",
+      "name": "Unequal Shuffle",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-15 14:10:15"
+    },
+    {
+      "code": "SPC2025",
+      "name": "New-Pro Coder",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-15 14:11:26"
+    },
+    {
+      "code": "ADASCOOL",
+      "name": "Ada School",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-15 14:13:08"
     }
   ]
 }
