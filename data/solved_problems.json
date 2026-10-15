@@ -1,5 +1,5 @@
 {
-  "total_solved": 484,
+  "total_solved": 488,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -484,7 +484,11 @@
     "CABRIDE",
     "CHEFSUM",
     "FAIRELCT",
-    "SALARY"
+    "SALARY",
+    "WHICHDIV",
+    "CODETOWN",
+    "SUNNYDAY",
+    "TENPACKETS"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4100,6 +4104,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-14 21:05:33"
+    },
+    {
+      "code": "WHICHDIV",
+      "name": "Which Division",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-15 09:28:21"
+    },
+    {
+      "code": "CODETOWN",
+      "name": "Reach Codetown",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-15 09:30:26"
+    },
+    {
+      "code": "SUNNYDAY",
+      "name": "Sunny Day",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-15 09:31:24"
+    },
+    {
+      "code": "TENPACKETS",
+      "name": "Buy Ten Packets",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-15 09:33:13"
     }
   ]
 }
