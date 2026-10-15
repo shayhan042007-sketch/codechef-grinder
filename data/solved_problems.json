@@ -1,5 +1,5 @@
 {
-  "total_solved": 494,
+  "total_solved": 498,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -494,7 +494,11 @@
     "BUSSEAT",
     "UNQSHF",
     "SPC2025",
-    "ADASCOOL"
+    "ADASCOOL",
+    "AMMEAT",
+    "MRSWAP",
+    "DBDISC",
+    "EID"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4180,6 +4184,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-15 14:13:08"
+    },
+    {
+      "code": "AMMEAT",
+      "name": "Andrew and the Meatballs",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-15 17:54:09"
+    },
+    {
+      "code": "MRSWAP",
+      "name": "Mirror Swap",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-15 17:55:24"
+    },
+    {
+      "code": "DBDISC",
+      "name": "Double Discount",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-15 17:58:58"
+    },
+    {
+      "code": "EID",
+      "name": "Chef and Eid",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-15 18:00:41"
     }
   ]
 }
