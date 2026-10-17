@@ -1,5 +1,5 @@
 {
-  "total_solved": 527,
+  "total_solved": 533,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -527,7 +527,13 @@
     "TWODIFFPALIN",
     "PIZZAPARTY",
     "GCEA",
-    "MAKESUB"
+    "MAKESUB",
+    "CHANGE_PLZ",
+    "BALREV",
+    "ELEVSTRS",
+    "COUPON2",
+    "FOOTBALLTIES",
+    "ANADSW"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4456,6 +4462,48 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-17 16:46:23"
+    },
+    {
+      "code": "CHANGE_PLZ",
+      "name": "Change Please",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-17 19:44:17"
+    },
+    {
+      "code": "BALREV",
+      "name": "Balanced Reversals",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-17 19:45:19"
+    },
+    {
+      "code": "ELEVSTRS",
+      "name": "From heaven to earth",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-17 19:46:52"
+    },
+    {
+      "code": "COUPON2",
+      "name": "Chef and Coupon",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-17 19:48:19"
+    },
+    {
+      "code": "FOOTBALLTIES",
+      "name": "Football Ties",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-17 19:49:42"
+    },
+    {
+      "code": "ANADSW",
+      "name": "Anti Adjacent Swaps",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-17 19:53:39"
     }
   ]
 }
