@@ -1,5 +1,5 @@
 {
-  "total_solved": 517,
+  "total_solved": 523,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -517,7 +517,13 @@
     "SMARTER",
     "PERMUTATION",
     "TRUTHLIE",
-    "VOTERS"
+    "VOTERS",
+    "MAXTRI",
+    "CHESSWIN",
+    "FIZZBUZZ23_2",
+    "CFMM",
+    "SC31",
+    "CHESS_PAIR"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4376,6 +4382,48 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-17 08:57:34"
+    },
+    {
+      "code": "MAXTRI",
+      "name": "Max Triangle",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-17 12:54:09"
+    },
+    {
+      "code": "CHESSWIN",
+      "name": "Chess Win",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-17 12:55:31"
+    },
+    {
+      "code": "FIZZBUZZ23_2",
+      "name": "Survival Time",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-17 12:57:26"
+    },
+    {
+      "code": "CFMM",
+      "name": "Making a Meal",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-17 12:59:19"
+    },
+    {
+      "code": "SC31",
+      "name": "Weapon Value",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-17 13:00:57"
+    },
+    {
+      "code": "CHESS_PAIR",
+      "name": "Chess Pairing",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-17 13:02:28"
     }
   ]
 }
