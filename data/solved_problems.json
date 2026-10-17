@@ -1,5 +1,5 @@
 {
-  "total_solved": 514,
+  "total_solved": 517,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -514,7 +514,10 @@
     "DONUTSELL",
     "GEMBUND",
     "FARFROMO",
-    "SMARTER"
+    "SMARTER",
+    "PERMUTATION",
+    "TRUTHLIE",
+    "VOTERS"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -754,7 +757,8 @@
     "CHOCEAT",
     "WRAPGIFTS",
     "SNAPE",
-    "ADDPOS"
+    "ADDPOS",
+    "EXPSTP"
   ],
   "history": [
     {
@@ -4351,6 +4355,27 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-16 20:15:29"
+    },
+    {
+      "code": "PERMUTATION",
+      "name": "Convert to permutation",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-17 08:53:27"
+    },
+    {
+      "code": "TRUTHLIE",
+      "name": "Truth Teller And Liars 101",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-17 08:55:42"
+    },
+    {
+      "code": "VOTERS",
+      "name": "Discrepancies in the Voters List",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-17 08:57:34"
     }
   ]
 }
