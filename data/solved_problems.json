@@ -1,5 +1,5 @@
 {
-  "total_solved": 549,
+  "total_solved": 553,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -549,7 +549,11 @@
     "DECODEIT",
     "CHEFSLP",
     "SWMA",
-    "MAKEPERM"
+    "MAKEPERM",
+    "NONADJFLIP",
+    "ADAKING",
+    "FRGAME",
+    "DSTAPLS"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4633,6 +4637,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-18 17:07:06"
+    },
+    {
+      "code": "NONADJFLIP",
+      "name": "Non Adjacent Flips",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-18 19:42:40"
+    },
+    {
+      "code": "ADAKING",
+      "name": "Ada King",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-18 19:43:44"
+    },
+    {
+      "code": "FRGAME",
+      "name": "Game between friends",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-18 19:44:58"
+    },
+    {
+      "code": "DSTAPLS",
+      "name": "Distribute Apples",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-18 19:46:16"
     }
   ]
 }
