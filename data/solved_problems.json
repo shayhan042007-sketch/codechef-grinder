@@ -1,5 +1,5 @@
 {
-  "total_solved": 533,
+  "total_solved": 538,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -533,7 +533,12 @@
     "ELEVSTRS",
     "COUPON2",
     "FOOTBALLTIES",
-    "ANADSW"
+    "ANADSW",
+    "GYMDAY",
+    "MAXCAP",
+    "MAXSCORE7",
+    "EASYPERM",
+    "VALIDMIN"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4504,6 +4509,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-17 19:53:39"
+    },
+    {
+      "code": "GYMDAY",
+      "name": "International Gym Day",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-18 09:08:39"
+    },
+    {
+      "code": "MAXCAP",
+      "name": "Maximum Capacity",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-18 09:10:09"
+    },
+    {
+      "code": "MAXSCORE7",
+      "name": "Maximum Score ",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-18 09:11:57"
+    },
+    {
+      "code": "EASYPERM",
+      "name": "Easy Permutation",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-18 09:13:26"
+    },
+    {
+      "code": "VALIDMIN",
+      "name": "Valid Minimum",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-18 09:14:16"
     }
   ]
 }
