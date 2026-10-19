@@ -1,5 +1,5 @@
 {
-  "total_solved": 557,
+  "total_solved": 561,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -557,7 +557,11 @@
     "STFOOD",
     "RRCOPY",
     "RESELL",
-    "COOLSUB"
+    "COOLSUB",
+    "COOLER7",
+    "BIGARRAY",
+    "JOINSTATE",
+    "FAIL"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4702,6 +4706,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-19 10:23:30"
+    },
+    {
+      "code": "COOLER7",
+      "name": "Cooler",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-19 19:30:13"
+    },
+    {
+      "code": "BIGARRAY",
+      "name": "Obtain the Sum",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-19 19:32:06"
+    },
+    {
+      "code": "JOINSTATE",
+      "name": "Join States",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-19 19:33:48"
+    },
+    {
+      "code": "FAIL",
+      "name": "Failing Grades",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-19 19:35:30"
     }
   ]
 }
