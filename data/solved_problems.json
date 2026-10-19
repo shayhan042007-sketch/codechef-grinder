@@ -799,7 +799,12 @@
     "SNAPE",
     "ADDPOS",
     "EXPSTP",
-    "EVENHATE"
+    "EVENHATE",
+    "MUL123",
+    "PLACE0110",
+    "PERMOR",
+    "COMM3",
+    "EVENM"
   ],
   "history": [
     {
