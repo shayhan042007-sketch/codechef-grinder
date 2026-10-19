@@ -1,5 +1,5 @@
 {
-  "total_solved": 553,
+  "total_solved": 557,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -553,7 +553,11 @@
     "NONADJFLIP",
     "ADAKING",
     "FRGAME",
-    "DSTAPLS"
+    "DSTAPLS",
+    "STFOOD",
+    "RRCOPY",
+    "RESELL",
+    "COOLSUB"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4665,6 +4669,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-18 19:46:16"
+    },
+    {
+      "code": "STFOOD",
+      "name": "Chef and Street Food",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-19 10:20:16"
+    },
+    {
+      "code": "RRCOPY",
+      "name": "Copy-Paste",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-19 10:21:18"
+    },
+    {
+      "code": "RESELL",
+      "name": "Reselling Items",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-19 10:22:22"
+    },
+    {
+      "code": "COOLSUB",
+      "name": "Cool Subsequences",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-19 10:23:30"
     }
   ]
 }
