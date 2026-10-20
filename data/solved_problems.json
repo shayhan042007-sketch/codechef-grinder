@@ -1,5 +1,5 @@
 {
-  "total_solved": 565,
+  "total_solved": 570,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -565,7 +565,12 @@
     "SCORING",
     "XMASTREE",
     "WATERMOVE2",
-    "BIT2A"
+    "BIT2A",
+    "LADDU",
+    "BUYING7",
+    "ODDEVEN7",
+    "VACCINE1",
+    "FARMLEGS"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4766,6 +4771,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-19 21:50:05"
+    },
+    {
+      "code": "LADDU",
+      "name": "Laddu",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-20 09:40:33"
+    },
+    {
+      "code": "BUYING7",
+      "name": "Expensive Buying",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-20 09:42:37"
+    },
+    {
+      "code": "ODDEVEN7",
+      "name": "Odd Even",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-20 09:43:36"
+    },
+    {
+      "code": "VACCINE1",
+      "name": "Vaccine Production",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-20 09:45:25"
+    },
+    {
+      "code": "FARMLEGS",
+      "name": "Legs on a Farm",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-20 09:46:18"
     }
   ]
 }
