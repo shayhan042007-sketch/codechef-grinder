@@ -1,5 +1,5 @@
 {
-  "total_solved": 580,
+  "total_solved": 584,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -580,7 +580,11 @@
     "CHSERVE",
     "FINALSALE",
     "STOCKMARKET",
-    "RECNDSTR"
+    "RECNDSTR",
+    "XOR_PAL",
+    "TEMPLELA",
+    "AVDSQUARPLZ",
+    "FIXEDPTS"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -829,7 +833,8 @@
     "COMM3",
     "EVENM",
     "MAX_BIN",
-    "P2_175"
+    "P2_175",
+    "DOUBLE"
   ],
   "history": [
     {
@@ -4888,6 +4893,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-20 18:18:25"
+    },
+    {
+      "code": "XOR_PAL",
+      "name": "Xor Palindrome",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-20 20:56:09"
+    },
+    {
+      "code": "TEMPLELA",
+      "name": "Temple Land",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-20 20:57:43"
+    },
+    {
+      "code": "AVDSQUARPLZ",
+      "name": "Avoid Squares Please",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-20 21:00:57"
+    },
+    {
+      "code": "FIXEDPTS",
+      "name": "Fixed Points",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-20 21:04:23"
     }
   ]
 }
