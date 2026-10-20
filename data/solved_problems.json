@@ -1,5 +1,5 @@
 {
-  "total_solved": 570,
+  "total_solved": 574,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -570,7 +570,11 @@
     "BUYING7",
     "ODDEVEN7",
     "VACCINE1",
-    "FARMLEGS"
+    "FARMLEGS",
+    "MULT3",
+    "INTMTCH",
+    "CLIPLX",
+    "LONGDRIVE"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -817,7 +821,9 @@
     "PLACE0110",
     "PERMOR",
     "COMM3",
-    "EVENM"
+    "EVENM",
+    "MAX_BIN",
+    "P2_175"
   ],
   "history": [
     {
@@ -4806,6 +4812,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-20 09:46:18"
+    },
+    {
+      "code": "MULT3",
+      "name": "Multiple of 3",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-20 14:17:03"
+    },
+    {
+      "code": "INTMTCH",
+      "name": "Interesting Match",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-20 14:20:04"
+    },
+    {
+      "code": "CLIPLX",
+      "name": "IPL and RCB",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-20 14:21:47"
+    },
+    {
+      "code": "LONGDRIVE",
+      "name": "Long Drive",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-20 14:25:46"
     }
   ]
 }
