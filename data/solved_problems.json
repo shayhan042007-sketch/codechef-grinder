@@ -1,5 +1,5 @@
 {
-  "total_solved": 574,
+  "total_solved": 580,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -574,7 +574,13 @@
     "MULT3",
     "INTMTCH",
     "CLIPLX",
-    "LONGDRIVE"
+    "LONGDRIVE",
+    "LOSTWKND",
+    "MOVHYPE",
+    "CHSERVE",
+    "FINALSALE",
+    "STOCKMARKET",
+    "RECNDSTR"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4840,6 +4846,48 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-20 14:25:46"
+    },
+    {
+      "code": "LOSTWKND",
+      "name": "Lost Weekends",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-20 18:08:37"
+    },
+    {
+      "code": "MOVHYPE",
+      "name": "Movie Hype",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-20 18:10:09"
+    },
+    {
+      "code": "CHSERVE",
+      "name": "Chef and Serves",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-20 18:12:16"
+    },
+    {
+      "code": "FINALSALE",
+      "name": "Sale",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-20 18:14:28"
+    },
+    {
+      "code": "STOCKMARKET",
+      "name": "Chef and Stocks",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-20 18:16:14"
+    },
+    {
+      "code": "RECNDSTR",
+      "name": "Chef and String",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-20 18:18:25"
     }
   ]
 }
