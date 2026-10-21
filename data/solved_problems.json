@@ -1,5 +1,5 @@
 {
-  "total_solved": 589,
+  "total_solved": 594,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -589,7 +589,12 @@
     "BALLOONS",
     "ALTARR",
     "BAKERY7",
-    "MINMXOR"
+    "MINMXOR",
+    "NEARSQ",
+    "CAN_REACH",
+    "CHPINTU",
+    "MODEFREQ",
+    "RATIO2"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4961,6 +4966,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-21 09:50:27"
+    },
+    {
+      "code": "NEARSQ",
+      "name": "Nearest Square",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-21 14:29:26"
+    },
+    {
+      "code": "CAN_REACH",
+      "name": "Can_Reach",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-21 14:32:05"
+    },
+    {
+      "code": "CHPINTU",
+      "name": "Pintu and Fruits",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-21 14:36:41"
+    },
+    {
+      "code": "MODEFREQ",
+      "name": "Mode of Frequencies",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-21 14:39:41"
+    },
+    {
+      "code": "RATIO2",
+      "name": "Ratio By 2",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-21 14:42:29"
     }
   ]
 }
