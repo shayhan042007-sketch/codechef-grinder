@@ -1,5 +1,5 @@
 {
-  "total_solved": 599,
+  "total_solved": 600,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -599,7 +599,8 @@
     "RNGEODD",
     "OG",
     "SECLAR",
-    "IPCCERT"
+    "IPCCERT",
+    "RATING"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -851,7 +852,10 @@
     "P2_175",
     "DOUBLE",
     "ALEXNUMB",
-    "CMIX"
+    "CMIX",
+    "MINDAYSRET",
+    "PATHPAR",
+    "DIVIDEMAKEEQ"
   ],
   "history": [
     {
@@ -5043,6 +5047,13 @@
       "status": "Accepted",
       "attempts": 2,
       "time": "2026-10-22 14:35:24"
+    },
+    {
+      "code": "RATING",
+      "name": "The Rating Dilemma",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-22 18:11:34"
     }
   ]
 }
