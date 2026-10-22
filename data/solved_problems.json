@@ -1,5 +1,5 @@
 {
-  "total_solved": 597,
+  "total_solved": 599,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -597,7 +597,9 @@
     "RATIO2",
     "WOLFDOWN",
     "RNGEODD",
-    "OG"
+    "OG",
+    "SECLAR",
+    "IPCCERT"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -848,7 +850,8 @@
     "MAX_BIN",
     "P2_175",
     "DOUBLE",
-    "ALEXNUMB"
+    "ALEXNUMB",
+    "CMIX"
   ],
   "history": [
     {
@@ -5026,6 +5029,20 @@
       "status": "Accepted",
       "attempts": 3,
       "time": "2026-10-22 09:50:37"
+    },
+    {
+      "code": "SECLAR",
+      "name": "Find Second Largest",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-22 14:31:49"
+    },
+    {
+      "code": "IPCCERT",
+      "name": "Chef and IPC Certificates",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-22 14:35:24"
     }
   ]
 }
