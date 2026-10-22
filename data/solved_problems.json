@@ -1,5 +1,5 @@
 {
-  "total_solved": 594,
+  "total_solved": 597,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -594,7 +594,10 @@
     "CAN_REACH",
     "CHPINTU",
     "MODEFREQ",
-    "RATIO2"
+    "RATIO2",
+    "WOLFDOWN",
+    "RNGEODD",
+    "OG"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -844,7 +847,8 @@
     "EVENM",
     "MAX_BIN",
     "P2_175",
-    "DOUBLE"
+    "DOUBLE",
+    "ALEXNUMB"
   ],
   "history": [
     {
@@ -5001,6 +5005,27 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-21 14:42:29"
+    },
+    {
+      "code": "WOLFDOWN",
+      "name": "Wolf Down",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-22 09:42:02"
+    },
+    {
+      "code": "RNGEODD",
+      "name": "Range Odd",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-22 09:47:15"
+    },
+    {
+      "code": "OG",
+      "name": "Origin",
+      "status": "Accepted",
+      "attempts": 3,
+      "time": "2026-10-22 09:50:37"
     }
   ]
 }
