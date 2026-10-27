@@ -1,5 +1,5 @@
 {
-  "total_solved": 603,
+  "total_solved": 606,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -603,7 +603,10 @@
     "RATING",
     "ONEFROMK",
     "SWISHGAME",
-    "MORECOOK"
+    "MORECOOK",
+    "DIVIDE3",
+    "HOWMANYMAX",
+    "PERFCONT"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -865,7 +868,8 @@
     "DANCEMOVES",
     "MAKEMULTIPLE",
     "MAX123",
-    "VALTRI"
+    "VALTRI",
+    "KO_MON"
   ],
   "history": [
     {
@@ -5085,6 +5089,27 @@
       "status": "Accepted",
       "attempts": 3,
       "time": "2026-10-27 14:20:13"
+    },
+    {
+      "code": "DIVIDE3",
+      "name": "Divide into 3",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-27 14:31:10"
+    },
+    {
+      "code": "HOWMANYMAX",
+      "name": "How Many Maximums",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-27 14:33:03"
+    },
+    {
+      "code": "PERFCONT",
+      "name": "A Balanced Contest",
+      "status": "Accepted",
+      "attempts": 3,
+      "time": "2026-10-27 14:37:12"
     }
   ]
 }
