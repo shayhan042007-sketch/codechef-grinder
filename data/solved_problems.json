@@ -1,5 +1,5 @@
 {
-  "total_solved": 600,
+  "total_solved": 603,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -600,7 +600,10 @@
     "OG",
     "SECLAR",
     "IPCCERT",
-    "RATING"
+    "RATING",
+    "ONEFROMK",
+    "SWISHGAME",
+    "MORECOOK"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -861,7 +864,8 @@
     "MNMX",
     "DANCEMOVES",
     "MAKEMULTIPLE",
-    "MAX123"
+    "MAX123",
+    "VALTRI"
   ],
   "history": [
     {
@@ -5060,6 +5064,27 @@
       "status": "Accepted",
       "attempts": 2,
       "time": "2026-10-22 18:11:34"
+    },
+    {
+      "code": "ONEFROMK",
+      "name": "Exclusion-Inclusion",
+      "status": "Accepted",
+      "attempts": 3,
+      "time": "2026-10-27 14:12:51"
+    },
+    {
+      "code": "SWISHGAME",
+      "name": "Swish Game",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-27 14:15:31"
+    },
+    {
+      "code": "MORECOOK",
+      "name": "More Cookies",
+      "status": "Accepted",
+      "attempts": 3,
+      "time": "2026-10-27 14:20:13"
     }
   ]
 }
