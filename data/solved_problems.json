@@ -1,5 +1,5 @@
 {
-  "total_solved": 612,
+  "total_solved": 615,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -612,7 +612,10 @@
     "HLEQN",
     "PENALTYSHOOT",
     "P2P",
-    "TEMPPLANT"
+    "TEMPPLANT",
+    "LPC",
+    "MARBCOLL",
+    "DISCOOKIE"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -875,7 +878,8 @@
     "MAKEMULTIPLE",
     "MAX123",
     "VALTRI",
-    "KO_MON"
+    "KO_MON",
+    "COVDSMPL"
   ],
   "history": [
     {
@@ -5158,6 +5162,27 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-11-08 05:33:46"
+    },
+    {
+      "code": "LPC",
+      "name": "Lockpicking Chef",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-10 15:05:52"
+    },
+    {
+      "code": "MARBCOLL",
+      "name": "Marble Collector",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-10 15:07:16"
+    },
+    {
+      "code": "DISCOOKIE",
+      "name": "Distribute Cookies",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-11-10 15:09:05"
     }
   ]
 }
